@@ -1,0 +1,4 @@
+{
+   "LIBDIR": "htdocs/lib",
+    "PHP_EXTENSIONS": ["mysqli","pgsql","zip","zlib","gd","mbstring","xmlrpc","soap"]
+}

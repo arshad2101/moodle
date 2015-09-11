@@ -1,0 +1,9 @@
+---
+applications:
+- name: moodle-asd
+  buildpack: php_buildpack
+  host: moodle-asd
+  domain: mybluemix.net
+  memory: 512M
+  disk_quota: 512M
+  stack: cflinuxfs2
